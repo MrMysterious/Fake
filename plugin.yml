@@ -1,0 +1,23 @@
+name: Fake
+version: 1.3
+author: MrMysterious
+
+main: de.mrmysterious.fake.Fake
+
+commands:
+  fakesay:
+    description: Send messages under other people's names.
+  fakeop:
+    description: Fake the opping message.
+  fakedeop:
+    description: Fake the deopping message.
+  fakejoin:
+    description: Fake the joining message.
+  fakequit:
+    description: Fake the quitting message.
+  fakelist:
+    description: List all "hidden" players.
+  show:
+    description: Show hidden users.
+  hide:
+    description: Hide users.
